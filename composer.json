@@ -1,5 +1,5 @@
 {
-    "name": "xgenious/paymentgateway",
+    "name": "kong-lt/paymentgateway",
     "description": "a laravel package to manage multiple payment gateway",
     "keywords": [
         "Laravel",
